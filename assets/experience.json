@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Lead Developer",
+    "company": "Signals99 Studio",
+    "duration": "Apr 2023 - Present · 1 yrs 2 mos",
+    "location": "Surabaya, East Java, Indonesia",
+    "skills": "Serverless, AWS, Typescript and +6 skills"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Freelance",
+    "duration": "Jan 2021 - Present · 3 yrs 6 mos",
+    "location": "Surabaya, East Java, Indonesia",
+    "skills": "Typescript, Next.js, Express, and +6 skills"
+  },
+  {
+    "title": "Web Programmer",
+    "company": "PT. Time Excelindo",
+    "duration": "Jul 2022 - Feb 2023 · 8 mos",
+    "location": "Sleman, Yogyakarta, Indonesia",
+    "skills": "Node.js, Laravel and +6 skills"
+  },
+  {
+    "title": "Project Lead Developer",
+    "company": "Go Wisata ID",
+    "duration": "Oct 2022 - Jan 2023 · 4 mos",
+    "location": "Surakarta, Central Java, Indonesia",
+    "skills": "Vue.js, Laravel and +4 skills"
+  },
+  {
+    "title": "Back End Developer",
+    "company": "PT. RUSYIDA MITRA PERKASA",
+    "duration": "Feb 2022 - Dec 2022 · 11 mos",
+    "location": "Surakarta, Central Java, Indonesia",
+    "skills": "QR, Laravel and +7 skills"
+  },
+  {
+    "title": "Back End Developer",
+    "company": "Badan Amil Zakat Nasional (BAZNAS)",
+    "duration": "May 2022 - Nov 2022 · 7 mos",
+    "location": "Surakarta, Central Java, Indonesia",
+    "skills": "Laravel, Vue.js and +4 skills"
+  }
+]
